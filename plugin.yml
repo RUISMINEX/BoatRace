@@ -1,0 +1,6 @@
+name: BoatRacePE
+version: 1.0.0
+author: TheCGaming
+api: 1.13.0
+main: Thecgaming\BoatRacePE\BoatRacePE
+load: POSTWORLD    
